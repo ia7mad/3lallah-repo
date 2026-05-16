@@ -1,12 +1,12 @@
 {
   "name": "3lallah Repo",
-  "identifier": "com.ia7mad.3lallah-repo",
-  "sourceURL": "https://ia7mad.github.io/3lallah-repo/repo.json",
+  "identifier": "live.3lallah.repo",
+  "sourceURL": "https://3lallah.live/repo.json",
   "subtitle": "Curated IPA source by 3lallah",
   "description": "3lallah Repo is a self-hosted IPA source compatible with AltStore, Feather, SideStore, and other AltStore-style sideloaders.",
-  "iconURL": "https://ia7mad.github.io/3lallah-repo/icons/repo-icon.png",
-  "headerURL": "https://ia7mad.github.io/3lallah-repo/icons/header.png",
-  "website": "https://ia7mad.github.io/3lallah-repo/",
+  "iconURL": "https://3lallah.live/icons/repo-icon.png",
+  "headerURL": "https://3lallah.live/icons/header.png",
+  "website": "https://3lallah.live/",
   "tintColor": "#00C6FF",
   "featuredApps": [
     "sa.gov.moh"
@@ -20,8 +20,8 @@
       "version": "5.5.1",
       "versionDate": "2026-05-16",
       "versionDescription": "Mawared 5.5.1 — initial release on 3lallah Repo.",
-      "downloadURL": "https://ia7mad.github.io/3lallah-repo/ipa/mawared-5.5.1.ipa",
-      "iconURL": "https://ia7mad.github.io/3lallah-repo/icons/mawared.png",
+      "downloadURL": "https://3lallah.live/ipa/mawared-5.5.1.ipa",
+      "iconURL": "https://3lallah.live/icons/mawared.png",
       "tintColor": "#00C6FF",
       "size": 42172384,
       "localizedDescription": "Mawared is the Saudi Ministry of Health's human-resources application, providing employees access to HR services, leave requests, payroll information, and internal MOH workflows.",

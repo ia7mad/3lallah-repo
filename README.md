@@ -2,7 +2,7 @@
 
 A self-hosted, AltStore-compatible IPA source hosted on GitHub Pages.
 
-**Source URL:** `https://ia7mad.github.io/3lallah-repo/repo.json`
+**Source URL:** `https://3lallah.live/repo.json`
 
 Works with Feather, AltStore, SideStore, and any IPA store that supports AltStore-style JSON sources.
 
@@ -36,8 +36,8 @@ Works with Feather, AltStore, SideStore, and any IPA store that supports AltStor
      "version": "1.0.0",
      "versionDate": "2026-05-16",
      "versionDescription": "What's new in this version.",
-     "downloadURL": "https://ia7mad.github.io/3lallah-repo/ipa/appname-1.0.0.ipa",
-     "iconURL": "https://ia7mad.github.io/3lallah-repo/icons/appname.png",
+     "downloadURL": "https://3lallah.live/ipa/appname-1.0.0.ipa",
+     "iconURL": "https://3lallah.live/icons/appname.png",
      "tintColor": "#00C6FF",
      "size": 12345678,
      "localizedDescription": "Full description of the app.",
