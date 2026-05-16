@@ -1,0 +1,34 @@
+{
+  "name": "3lallah Repo",
+  "identifier": "com.ia7mad.3lallah-repo",
+  "sourceURL": "https://ia7mad.github.io/3lallah-repo/repo.json",
+  "subtitle": "Curated IPA source by 3lallah",
+  "description": "3lallah Repo is a self-hosted IPA source compatible with AltStore, Feather, SideStore, and other AltStore-style sideloaders.",
+  "iconURL": "https://ia7mad.github.io/3lallah-repo/icons/repo-icon.png",
+  "headerURL": "https://ia7mad.github.io/3lallah-repo/icons/header.png",
+  "website": "https://ia7mad.github.io/3lallah-repo/",
+  "tintColor": "#00C6FF",
+  "featuredApps": [
+    "com.example.placeholder"
+  ],
+  "apps": [
+    {
+      "name": "Placeholder App",
+      "bundleIdentifier": "com.example.placeholder",
+      "developerName": "3lallah",
+      "subtitle": "Example entry — replace with a real app",
+      "version": "1.0.0",
+      "versionDate": "2026-05-16",
+      "versionDescription": "Initial placeholder release. Replace this entry with a real IPA before publishing.",
+      "downloadURL": "https://ia7mad.github.io/3lallah-repo/ipa/placeholder.ipa",
+      "iconURL": "https://ia7mad.github.io/3lallah-repo/icons/placeholder.png",
+      "tintColor": "#00C6FF",
+      "size": 1048576,
+      "localizedDescription": "This is a placeholder app entry to demonstrate the structure of the 3lallah Repo. Replace this with a real app's metadata and upload the matching IPA to the ipa/ folder.",
+      "minOSVersion": "14.0",
+      "screenshotURLs": [],
+      "permissions": []
+    }
+  ],
+  "news": []
+}
